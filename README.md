@@ -2,10 +2,15 @@
   <h1 align="center">Guest Records API</h1>
 </p>
 <p align="center">
-<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/cleiberreis/guest-records-api">
+
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/cleiberreis/guest-records-api/master">
+
+<img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/cleiberreis/guest-records-api?color=orange">
+
 <img alt="GitHub" src="https://img.shields.io/github/license/cleiberreis/guest-records-api">
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/cleiberreis/guest-records-api?style=social">
+
 </p>
 
 ## Description
