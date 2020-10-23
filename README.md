@@ -15,7 +15,7 @@
 
 ## Description
 
-Loading...
+API to serve an application for guest registration
 
 ## Installation
 
